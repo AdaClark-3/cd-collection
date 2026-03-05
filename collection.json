@@ -1,0 +1,289 @@
+[
+  {
+    "album": "Vessel",
+    "artist": "Twenty One Pilots",
+    "year": 2013,
+    "label": "Fueled By Ramen",
+    "cover": "img/Vessel.png"
+  },
+  {
+    "album": "Blurryface",
+    "artist": "Twenty One Pilots",
+    "year": 2015,
+    "label": "Fueled By Ramen",
+    "cover": "img/Blurryface.png"
+  },
+  {
+    "album": "Trench",
+    "artist": "Twenty One Pilots",
+    "year": 2018,
+    "label": "Fueled By Ramen",
+    "cover": "img/Trench.png"
+  },
+  {
+    "album": "Scaled and Icy",
+    "artist": "Twenty One Pilots",
+    "year": 2021,
+    "label": "Fueled By Ramen",
+    "cover": "img/ScaledAndIcy.png"
+  },
+  {
+    "album": "Rage Against the Machine",
+    "artist": "Rage Against the Machine",
+    "year": 1992,
+    "label": "Epic",
+    "cover": "img/RageAgainstTheMachine.jpg"
+  },
+  {
+    "album": "Evil Empire",
+    "artist": "Rage Against the Machine",
+    "year": 1996,
+    "label": "Epic",
+    "cover": "img/EvilEmpire.png"
+  },
+  {
+    "album": "The Battle of Los Angeles",
+    "artist": "Rage Against the Machine",
+    "year": 1999,
+    "label": "Epic",
+    "cover": "img/TheBattleOfLosAngeles.jpeg"
+  },
+  {
+    "album": "Renegades",
+    "artist": "Rage Against the Machine",
+    "year": 2000,
+    "label": "Epic",
+    "cover": "img/Renegades.png"
+  },
+  {
+    "album": "Pablo Honey",
+    "artist": "Radiohead",
+    "year": 1993,
+    "label": "EMI",
+    "cover": "img/PabloHoney.jpg"
+  },
+  {
+    "album": "The Bends",
+    "artist": "Radiohead",
+    "year": 1995,
+    "label": "EMI",
+    "cover": "img/TheBends.png"
+  },
+  {
+    "album": "OK Computer",
+    "artist": "Radiohead",
+    "year": 1997,
+    "label": "EMI",
+    "cover": "img/OKComputer.png"
+  },
+  {
+    "album": "Amnesiac",
+    "artist": "Radiohead",
+    "year": 2001,
+    "label": "EMI",
+    "cover": "img/Amnesiac.png"
+  },
+  {
+    "album": "Nevermind",
+    "artist": "Nirvana",
+    "year": 1991,
+    "label": "DGC",
+    "cover": "img/Nevermind.jpg"
+  },
+  {
+    "album": "In Utero",
+    "artist": "Nirvana",
+    "year": 1993,
+    "label": "DGC",
+    "cover": "img/InUtero.jpg"
+  },
+  {
+    "album": "From the Muddy Banks of the Wishkah",
+    "artist": "Nirvana",
+    "year": 1996,
+    "label": "DGC",
+    "cover": "img/FromTheMuddyBanksOfTheWishkah.jpg"
+  },
+  {
+    "album": "Nirvana",
+    "artist": "Nirvana",
+    "year": 2002,
+    "label": "DGC",
+    "cover": "img/Nirvana.jpg"
+  },
+  {
+    "album": "Please Please Me",
+    "artist": "The Beatles",
+    "year": 1963,
+    "label": "Parlophone",
+    "cover": "img/PleasePleaseMe.png"
+  },
+  {
+    "album": "With the Beatles",
+    "artist": "The Beatles",
+    "year": 1963,
+    "label": "Parlophone",
+    "cover": "img/WithTheBeatles.png"
+  },
+  {
+    "album": "A Hard Day's Night",
+    "artist": "The Beatles",
+    "year": 1964,
+    "label": "Parlophone",
+    "cover": "img/AHardDay'sNight.jpg"
+  },
+  {
+    "album": "Beatles for Sale",
+    "artist": "The Beatles",
+    "year": 1964,
+    "label": "Parlophone",
+    "cover": "img/BeatlesForSale.jpg"
+  },
+  {
+    "album": "Help!",
+    "artist": "The Beatles",
+    "year": 1965,
+    "label": "Parlophone",
+    "cover": "img/Help!.png"
+  },
+  {
+    "album": "Revolver",
+    "artist": "The Beatles",
+    "year": 1966,
+    "label": "Parlophone",
+    "cover": "img/Revolver.jpg"
+  },
+  {
+    "album": "Abbey Road",
+    "artist": "The Beatles",
+    "year": 1969,
+    "label": "Apple",
+    "cover": "img/AbbeyRoad.jpg"
+  },
+  {
+    "album": "Past Masters, Volume One",
+    "artist": "The Beatles",
+    "year": 1988,
+    "label": "Capitol",
+    "cover": "img/PastMastersVolumeOne.png"
+  },
+  {
+    "album": "1",
+    "artist": "The Beatles",
+    "year": 2000,
+    "label": "Capitol",
+    "cover": "img/1.jpg"
+  },
+  {
+    "album": "Lennon Legend",
+    "artist": "John Legend",
+    "year": 1997,
+    "label": "Parlophone",
+    "cover": "img/LennonLegend.jpg"
+  },
+  {
+    "album": "All the Best!",
+    "artist": "Paul McCartney",
+    "year": 1987,
+    "label": "Capitol",
+    "cover": "img/AllTheBest!.jpg"
+  },
+  {
+    "album": "Weezer (Blue Album)",
+    "artist": "Weezer",
+    "year": 1994,
+    "label": "DGC",
+    "cover": "img/BlueAlbum.png"
+  },
+  {
+    "album": "Make Believe",
+    "artist": "Weezer",
+    "year": 2005,
+    "label": "Geffen",
+    "cover": "img/MakeBelieve.jpg"
+  },
+  {
+    "album": "Fables of the Reconstruction",
+    "artist": "R.E.M.",
+    "year": 1985,
+    "label": "I.R.S.",
+    "cover": "img/FablesOfTheReconstruction.jpg"
+  },
+  {
+    "album": "Lifes Rich Pageant",
+    "artist": "R.E.M.",
+    "year": 1986,
+    "label": "I.R.S.",
+    "cover": "img/LifesRichPageant.jpg"
+  },
+  {
+    "album": "Green",
+    "artist": "R.E.M.",
+    "year": 1988,
+    "label": "Warner Bros.",
+    "cover": "img/Green.jpg"
+  },
+  {
+    "album": "Out of Time",
+    "artist": "R.E.M.",
+    "year": 1991,
+    "label": "Warner Bros.",
+    "cover": "img/OutOfTime.jpg"
+  },
+  {
+    "album": "Automatic for the People",
+    "artist": "R.E.M.",
+    "year": 1992,
+    "label": "Warner Bros.",
+    "cover": "img/AutomaticForThePeople.jpg"
+  },
+  {
+    "album": "Up",
+    "artist": "R.E.M.",
+    "year": 1998,
+    "label": "Warner Bros.",
+    "cover": "img/Up.jpg"
+  },
+  {
+    "album": "Eponymous",
+    "artist": "R.E.M.",
+    "year": 1988,
+    "label": "I.R.S.",
+    "cover": "img/Eponymous.jpg"
+  },
+  {
+    "album": "Simon and Garfunkel's Greatest Hits",
+    "artist": "Simon & Garfunkel",
+    "year": 1972,
+    "label": "Columbia",
+    "cover": "img/SimonAndGarfunkel'sGreatestHits.jpg"
+  },
+  {
+    "album": "Stop the Clocks",
+    "artist": "Oasis",
+    "year": 2006,
+    "label": "Big Brother",
+    "cover": "img/StopTheClocks.jpg"
+  },
+  {
+    "album": "The Queen is Dead",
+    "artist": "The Smiths",
+    "year": 1986,
+    "label": "Rough Trade",
+    "cover": "img/TheQueenIsDead.png"
+  },
+  {
+    "album": "Wish",
+    "artist": "the Cure",
+    "year": 1992,
+    "label": "Fiction",
+    "cover": "img/Wish.jpg"
+  },
+  {
+    "album": "Skin and Bones",
+    "artist": "Foo Fighters",
+    "year": 2006,
+    "label": "RCA",
+    "cover": "img/SkinAndBones.jpg"
+  }
+]
