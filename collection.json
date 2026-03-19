@@ -285,5 +285,89 @@
     "year": 2006,
     "label": "RCA",
     "cover": "img/SkinAndBones.jpg"
+  },
+  {
+    "album": "A Fever You Can't Sweat Out",
+    "artist": "Panic! at the Disco",
+    "year": 2005,
+    "label": "Fueled By Ramen",
+    "cover": "img/AFeverYouCan'tSweatOut.jpg"
+  },
+  {
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "artist": "My Chemical Romance",
+    "year": 2010,
+    "label": "Reprise",
+    "cover": "img/DangerDays.jpg"
+  },
+  {
+    "album": "Three Cheers For Sweet Revenge (Deluxe Edition)",
+    "artist": "My Chemical Romance",
+    "year": 2025,
+    "label": "Reprise",
+    "cover": "img/ThreeCheersForSweetRevenge(DeluxeEdition).jpg"
+  },
+  {
+    "album": "Violent Things",
+    "artist": "The Brobecks",
+    "year": 2019,
+    "label": "None, You Jerk Records",
+    "cover": "img/ViolentThings.jpg"
+  },
+  {
+    "album": "Sam's Town",
+    "artist": "The Killers",
+    "year": 2006,
+    "label": "Island",
+    "cover": "img/Sam'sTown.png"
+  },
+  {
+    "album": "Oracular Spectacular",
+    "artist": "MGMT",
+    "year": 2007,
+    "label": "Columbia",
+    "cover": "img/OracularSpectacular.jpg"
+  },
+  {
+    "album": "Little Dark Age",
+    "artist": "MGMT",
+    "year": 2018,
+    "label": "Columbia",
+    "cover": "img/LittleDarkAge.png"
+  },
+  {
+    "album": "Mellon Collie and the Infinite Sadness",
+    "artist": "The Smashing Pumpkins",
+    "year": 1995,
+    "label": "Virgin",
+    "cover": "img/MellonCollieAndTheInfiniteSadness.jpg"
+  },
+  {
+    "album": "Siamese Dream",
+    "artist": "The Smashing Pumpkins",
+    "year": 2011,
+    "label": "Virgin",
+    "cover": "img/SiameseDream.jpeg"
+  },
+  {
+    "album": "Is This It",
+    "artist": "the Strokes",
+    "year": 2001,
+    "label": "RCA",
+    "cover": "img/IsThisIt.png"
+  },
+  {
+    "album": "Room on Fire",
+    "artist": "the Strokes",
+    "year": 2003,
+    "label": "RCA",
+    "cover": "img/RoomOnFire.jpg"
+  },
+  {
+    "album": "Angles",
+    "artist": "the Strokes",
+    "year": 2011,
+    "label": "RCA",
+    "cover": "img/Angles.jpg"
   }
 ]
