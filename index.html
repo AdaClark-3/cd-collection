@@ -2,9 +2,26 @@
 <html>
 <head>
   <title>Ada's CD Collection</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
   <h1>Ada's CD Collection</h1>
-  <p>Explore my CD collection! <a href="site.html">Enter the site</a></p>
+
+  <img id="surprise" src="img/CDcat.jpg" alt="CDeez nuts, bitch!" width="300" >
+
+  <p>
+    <button class="enterButton" onclick="location.href='site.html'">CDeez Nuts</button>
+  </p>
+  
+  <script>
+    // Grab the image by its ID
+  const img = document.getElementById("surprise");
+
+  // Add a click event
+  img.addEventListener("click", () => {
+    alert("CDeez nuts, bitch!");
+  });
+  </script>
 </body>
 </html>
